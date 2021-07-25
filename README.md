@@ -1,4 +1,4 @@
-# Sistemas Distribuídos
+# File Exchange
 
-Projeto de Sistemas Distribuídos Ano Letivo 2019/2020.
+Distributed Systems (Sistemas Distribuídos) project 2019/20
 
